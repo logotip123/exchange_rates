@@ -1,6 +1,6 @@
-#Exchange rates
+# Exchange rates
 
-#deploy project on your local machine:
+# deploy project on your local machine:
 1 - To deploy project on your local machine create new virtual environment and execute this command:
 
 pip install -r requirements.txt
