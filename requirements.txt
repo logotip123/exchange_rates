@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==3.0.3
+Django==3.0.12
 environs==7.2.0
 marshmallow==3.4.0
 psycopg2-binary==2.8.4
